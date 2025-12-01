@@ -3,7 +3,7 @@
 Web calculator built with HTML, CSS, and JavaScript.
 
 ## Screenshot
-![Calculator Screenshot](calculator-print.png)
+![Calculator Screenshot](screenshot.png)
 
 ## Features
 - Addition
